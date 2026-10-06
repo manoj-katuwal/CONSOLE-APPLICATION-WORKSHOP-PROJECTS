@@ -1,0 +1,15 @@
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\bin\Debug\net10.0\TASK4.exe
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\bin\Debug\net10.0\TASK4.deps.json
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\bin\Debug\net10.0\TASK4.runtimeconfig.json
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\bin\Debug\net10.0\TASK4.dll
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\bin\Debug\net10.0\TASK4.pdb
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.AssemblyInfoInputs.cache
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.AssemblyInfo.cs
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.csproj.CoreCompileInputs.cache
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.sourcelink.json
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.dll
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\refint\TASK4.dll
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.pdb
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\TASK4.genruntimeconfig.cache
+C:\Users\katwa\RiderProjects\APP-DEVELOPEMTENT-WORKSHOP\TASK4\obj\Debug\net10.0\ref\TASK4.dll
