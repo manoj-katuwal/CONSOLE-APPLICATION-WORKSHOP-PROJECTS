@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK6\\TASK6.csproj",
-      "projectName": "TASK6",
-      "projectPath": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK6\\TASK6.csproj",
+      "projectUniqueName": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK-6\\TASK-6.csproj",
+      "projectName": "TASK-6",
+      "projectPath": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK-6\\TASK-6.csproj",
       "packagesPath": "C:\\Users\\katwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK6\\obj\\",
+      "outputPath": "C:\\Users\\katwa\\RiderProjects\\APP-DEVELOPEMTENT-WORKSHOP\\TASK-6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\katwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
